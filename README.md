@@ -20,7 +20,7 @@ I also directly manage teams, acting as Product, Project and Line manager in mos
 ## What do I value most?
 
 ### Outcomes
-whatever we do, if the outcome we're trying to reach is understood and measurable then I'm happy. I'm much less happy if we do something because "we've always done it that way" or "the \<insert influential role here\> said so".
+Whatever we do, if the outcome we're trying to reach is understood and measurable then I'm happy. I'm much less happy if we do something because "we've always done it that way" or "the \<insert influential role here\> said so".
 
 ### Psychological safety
 I try to imagine the most constructive reason why someone might say or do something that appears unhelpful or negative. I understand that most people are intending to do what they think is right & are more often misinterpreted than actually nasty or vindictive. I'm going to implore that you make the same assumption for others (including me).
@@ -29,10 +29,10 @@ I try to imagine the most constructive reason why someone might say or do someth
 I'm going to assume you know how to do your job better than I do and that you'll be at your most effective if I provide three things. 1) A clear set of aims and the context surrounding them 2) unconditional support from myself and the team and 3) the deep-work focus time that you need. I generally take an on-demand support role due to item 3; but realise that, after 20+ years in the industry, my assumption might well be wrong in some ways and, if I identify a need, I will switch to active support.
 
 ### Accountability
-autonomy and psychological safety without accountability can lead to an unproductive comfort zone. Accountability is the critical ingredient that allows us to remain competitive as a business in a psychologically safe and autonomous environment.
+Autonomy and psychological safety without accountability can lead to an unproductive comfort zone. Accountability is the critical ingredient that allows us to remain competitive as a business in a psychologically safe and autonomous environment.
 
 ### Knowledge sharing
-knowledge silos are bottlenecks for a team and quickly build risk. This is not code for me wanting to know everything, in fact, I'm very conscious that bottlenecks also occur when one person in the team feels like they need to know everything. This is about focusing on collaboration, and better quality emerging from a broader understanding.
+Knowledge silos are bottlenecks for a team and quickly build risk. This is not code for me wanting to know everything, in fact, I'm very conscious that bottlenecks also occur when one person in the team feels like they need to know everything. This is about focusing on collaboration, and better quality emerging from a broader understanding.
 
 ### 
 Finally, I abhor "panic time" for a team. A team that gets stretched and panicked on a regular basis has its creative potential sucked out of it. With this in mind, I'm going to push for regular releases, automated testing and all that lovely stuff! We're in a knowledge-work industry and creativity is key.
