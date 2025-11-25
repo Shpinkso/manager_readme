@@ -20,7 +20,7 @@ I also directly manage teams, acting as Product, Project and Line manager in mos
 ## What do I value most?
 
 ### Outcomes
-whatever we do, if the outcome we're trying to reach is understood and measurable then I'm happy. I'm much less happy if we do something because "we've always done it that way" or "the <insert influential role here> said so".
+whatever we do, if the outcome we're trying to reach is understood and measurable then I'm happy. I'm much less happy if we do something because "we've always done it that way" or "the \<insert influential role here\> said so".
 
 ### Psychological safety
 I try to imagine the most constructive reason why someone might say or do something that appears unhelpful or negative. I understand that most people are intending to do what they think is right & are more often misinterpreted than actually nasty or vindictive. I'm going to implore that you make the same assumption for others (including me).
