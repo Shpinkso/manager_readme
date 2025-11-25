@@ -35,7 +35,7 @@ Autonomy and psychological safety without accountability can lead to an unproduc
 Knowledge silos are bottlenecks for a team and quickly build risk. This is not code for me wanting to know everything, in fact, I'm very conscious that bottlenecks also occur when one person in the team feels like they need to know everything. This is about focusing on collaboration, and better quality emerging from a broader understanding.
 
 ### 
-Finally, I abhor "panic time" for a team. A team that gets stretched and panicked on a regular basis has its creative potential sucked out of it. With this in mind, I'm going to push for regular releases, automated testing and all that lovely stuff! We're in a knowledge-work industry and creativity is key.
+Finally, I hate to see frequent "panic time" for a team. A team that gets stretched and panicked on a regular basis has its creative potential sucked out of it. With this in mind, I'm going to push for regular releases, automated testing and all that lovely stuff! We're in a knowledge-work industry and creativity is key.
 
 Sometime I fear I can stray too far in favour of these, so help me by keeping me grounded - help me identify if autonomy strays toward anarchy, to accept that some panic time a matter of course and point out if you think I'm being too lenient on certain questionable behaviour within my group. I relish a healthy conflict.
 
